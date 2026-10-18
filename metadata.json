@@ -1,0 +1,6 @@
+{
+  "name": "Mayra Assistant",
+  "description": "Realtime, background-running voice assistant with a confident, witty, and sassy personality powered by Gemini Live.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

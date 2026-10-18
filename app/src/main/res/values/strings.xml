@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mayra</string>
+    <string name="notification_channel_name">Mayra Voice Assistant</string>
+    <string name="notification_channel_desc">Keeps Mayra voice assistant connected and responsive in the background</string>
+    <string name="service_running_title">Mayra is with you</string>
+    <string name="service_running_text">Listening in real-time. Speak whenever you want.</string>
+</resources>
